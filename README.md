@@ -38,6 +38,13 @@
 <a href="https://maven.apache.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40"/>
 </a>
+<a href="https://developer.hashicorp.com/terraform" target="_blank">
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="40" height="40"/>
+</a>
+<a href="https://www.ansible.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="40" height="40"/>
+</a>
+
 
 </p>
 
