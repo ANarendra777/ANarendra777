@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">A passionate Aspiring DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANarendra777&label=Profile%20views&color=0e75b6&style=flat" alt="tdhanapl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ANarendra777&label=Profile%20views&color=0e75b6&style=flat" alt="Narendra" /> </p>
 
 - 🎓 I have completed my Master of Computer Applications (MCA)
 
